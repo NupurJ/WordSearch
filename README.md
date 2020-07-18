@@ -1,2 +1,2 @@
 # WordSearch
-This is a game I made for a school project once.
+Generates a grid of letters for a Word Search game.
