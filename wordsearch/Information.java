@@ -1,3 +1,5 @@
+package wordsearch;
+
 public class Information
 {
     public static String themes[] = new String[20];//stores themes

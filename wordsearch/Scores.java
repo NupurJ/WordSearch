@@ -1,3 +1,4 @@
+package wordsearch;
 public class Scores
 {
     public static int scores[][] = new int[3][3];

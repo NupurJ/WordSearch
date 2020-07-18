@@ -1,3 +1,4 @@
+package wordsearch;
 import java.io.*;
 
 public class Grid //generates the grid

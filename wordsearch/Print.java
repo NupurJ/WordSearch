@@ -1,3 +1,4 @@
+package wordsearch;
 public class Print
 {
     void grid(char grid[][])
